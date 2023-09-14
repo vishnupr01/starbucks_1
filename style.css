@@ -1,14 +1,11 @@
-/* Your existing CSS for desktop view here */
 
-/* Style for the mobile menu */
-/* Reset some default styles */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-/* Style the navbar container */
+
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -21,13 +18,13 @@
   border-color: rgb(240, 238, 238);
 }
 
-/* Style the logo */
+
 .logo img {
   max-width: 100%;
   height: auto;
 }
 
-/* Style the menu items */
+
 .menu {
   list-style: none;
   display: flex;
@@ -43,7 +40,7 @@
   font-weight: bold;
 }
 
-/* Style the store location */
+
 .store-location {
   display: flex;
   align-items: center;
@@ -73,9 +70,7 @@
   color: #fff;
 }
 
-/* Your existing CSS for desktop view here */
 
-/* Style for the mobile menu */
 .mobile-menu {
   display: none;
 }
